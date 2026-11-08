@@ -14,13 +14,11 @@
 
 ## `$ whoami`
 
-```yaml
-username: rubuntu0113
-role: Developer
-interests:
-  - Software Engineering
-  - Artificial Intelligence
-  - Automation
-  - Open Source
-currently: Building something awesome
-motto: "Think. Build. Improve. Repeat."
+> Developer passionate about building useful things with code.
+
+- 🚀 Exploring AI-powered development
+- 💻 Building software and automation tools
+- 🐧 Linux enthusiast
+- 🧠 Always learning something new
+
+**Current motto:** Think. Build. Improve. Repeat.
